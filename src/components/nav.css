@@ -1,0 +1,39 @@
+.col-md-1-5 { 
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 12,5%; }
+.col-md-2-5 { 
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 20,83333%; }
+
+.row {
+    align-items: center;
+    height: 100px;
+}
+
+#title {
+    padding-top: 0.4em;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#icon {
+    margin-left: 10px;
+    margin-top:15px;
+    border-radius: 15px;
+}
+
+#input {
+    margin-top: 20px;
+    max-width: 250px;
+}
+
+#button {
+    margin-top: 19px;
+}
+
+#chart {
+    background-color: antiquewhite;
+    align-items: center;
+}
